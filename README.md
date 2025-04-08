@@ -14,4 +14,5 @@
 ## 라이브러리 정보
 
 - lombok (1.18.28)
+- junit-jupiter (5.8.1)
 - junit-jupiter-engine (5.8.1)
