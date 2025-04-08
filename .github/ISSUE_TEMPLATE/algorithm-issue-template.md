@@ -1,7 +1,7 @@
 ---
 name: Algorithm issue template
 about: 알고리즘 학습용 템플릿
-title: [Chapter00/Step00] 제목
+title: Chapter00/Step00 제목
 labels: algorithm
 assignees: babysean
 
